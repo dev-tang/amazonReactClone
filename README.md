@@ -11,3 +11,5 @@
 # React Router DOM
 # JSX
 # BEM Naming Conventions [Block Element Modifier]
+# Functional Components
+# React Context API
